@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    margin: 40px 120px;
+    text-align: center;
+    background-image: url(images/picture1.png)
+}
+button{
+    color: #48924F;
+    background-color: white;
+    margin: 30px 160px 0px;
+    padding: 7px 0px;
+    border-radius: 35px;
+    size: 18px;
+    width: 180px;
+    height: 70px;
+    top: 654px;
+    left: 862px;
+    border: 1px solid white;
+    line-height: 27px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: center;
+    box-shadow: 0px 10px 50px 0px #10331E80;
+}
+.Services{
+     width: 284px;
+     height: 96px;
+     top: 910px;
+     left: 810px;
+     margin-left: 550px;
+    
+}
+#logo{
+    margin-left: -320px;;
+    margin-bottom: -50px
+}
+.picturecard{
+    display: flex;
+    margin-left: 100px;
+    padding: -250px;
+    margin-top: 35px;
+}
+.piccard{
+    width: 385px;
+    height: 504px;
+    border-radius: 30px 30px 0px 0px;
+    margin-right: 20px;
+}
+
+.single_button{
+    margin-left: 600px;
+}
+.contacts{
+    width: 600px;
+    height: 90px;
+    margin-left: 400px;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 800px;
+    line-height: 96px;
+    letter-spacing: 0cm;
+    color: #828282;
+}
+.section2{
+    color:white;
+    background-image: url(images/picture6.png)
+}
+.subsection2{
+    display: flex;
+    padding-left: 15px;
+}
+.size{
+    display: flex;
+    margin-left: 50px;
+    padding-top: 40px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 200px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 360px;
+
+}
+.testimonial_hd{
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+.section3{
+    margin-left: 100px;
+}
+.resize{
+    padding:10px;
+}
+.section4{
+    margin-left: 300px;
+    margin-top: 25px;
+}
